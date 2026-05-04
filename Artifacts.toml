@@ -1,0 +1,92 @@
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+git-tree-sha1 = "c2d8a2a3ebdc5d3eebe69fff1d03e46316f699e6"
+os = "macos"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "04d53d95c9b45a950d673efe8843fdba420a509529d23ca27a7aac53f4c1d985"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7769349b3f0297b005f85f2a84cc43fba892ac5f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "32d001abe558883424a12d44823645cef3aefa5e1fe48e603d943c10e70c0150"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff347f0b2ee350386605a92368cdbce2ace972f5"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "4601479f872a434634b5e24f90935f9984e21d34b324f6479ba41161c917cc90"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+git-tree-sha1 = "a40631ecc34e4ebfd258255ac07c01ee6faa221b"
+os = "freebsd"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "424c8f3ff83b5c745d69f819806daec9cf9c178835540d070932b7f64ebffcb4"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abfc448d3ec0d98e12997981bb3237941ccb28a7"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "218d8f4230b98aaa38c13a0af2f2395e3f923beed058a662726fc0f87ba0880a"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "715b54a474c4eb330b664f79a54dc37b889a3192"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "6172917e514b2e1c38e64161bdb4093facc5872c82a220359ed2be20233f17ff"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+git-tree-sha1 = "caddf9caafd36acdb61d05223e37e98c05c5517e"
+os = "macos"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "35050ca2775443aa5efc84e15791c87042f8d8cbeb062de3194cb925c1f5d511"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a06dd83c77ad61c84cc440fd179626f9412e3e2c"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "87a1c064bb6e85c3e63ecc7ec46dcd9976d19026978d4beaa9f573fb44fff7bd"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7cf0d5e507cfda006b326793cb2628927b5eb1ca"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "fea5b90b31d860465437f356a18db5f18afa29463cbef48dba6a778cbf199cb8"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+git-tree-sha1 = "84f50add44b8a5fa6a15c852c213cf08eb069cc0"
+os = "freebsd"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "e0d51683bc170bf51c173fdecd5195256a576485e18fc5ef017d88ab339ef4ba"
+    url = "https://github.com/lgoettgens/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v101.1600.0+0/GAP_pkg_ferret.v101.1600.0.x86_64-unknown-freebsd.tar.gz"
